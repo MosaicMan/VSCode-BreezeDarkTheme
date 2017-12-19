@@ -1,0 +1,22 @@
+{
+    "name": "mosaicman-breezedarktheme",
+    "displayName": "MosaicMan Breeze Dark",
+    "description": "Low in light emissions with Twilight syntax coloring.",
+    "version": "0.0.1",
+    "publisher": "MosaicMan",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "MosaicMan Breeze Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MosaicMan-BreezeDarkTheme-color-theme.json"
+            }
+        ]
+    }
+}
